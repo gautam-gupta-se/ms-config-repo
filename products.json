@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Product A",
+        "status": "live"
+    },
+    {
+        "id": 2,
+        "name": "Product B",
+        "status": "live"
+    },
+    {
+        "id": 3,
+        "name": "Product C",
+        "status": "pending"
+    },
+    {
+        "id": 4,
+        "name": "Product D",
+        "status": "live"
+    },
+    {
+        "id": 5,
+        "name": "Product E",
+        "status": "pending"
+    }
+]
